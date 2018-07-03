@@ -2,7 +2,43 @@
 
  body {
 
-    background-color: #e1bee7;
+    background-color: #b0bec5;
 }
 
-  
+#nom{
+
+	font-family: 'Tangerine', cursive;
+	font-size: 125px;
+	color: #006064;
+	text-align: center;
+	margin-top: 25px;
+}
+
+#poste{
+	font-family: 'Tenor Sans', sans-serif;
+	font-size: 60px;
+	margin-top: 20px; 
+	margin-left: 800px;
+}
+
+#photo {
+
+	height: 500px;
+	width:500px;
+	border-color: #424242; 
+	margin-right: 500px;
+	margin-top: 40px; 
+
+}
+
+#identité{
+	text-align: center;
+}
+
+#pro{
+text-align: center;
+}
+
+#projet{
+text-align: center; 
+}
